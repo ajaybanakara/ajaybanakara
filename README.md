@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Ajay! 👋
 
-<!--
-**ajaybanakara/ajaybanakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Aspiring Software Developer  
+🤖 Interested in Artificial Intelligence and Technology
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **C, Python, and Java**
+- 💡 Interested in software development and AI technologies
+- 🛠️ Building projects to improve my programming skills
+- 🎯 Working towards becoming a skilled software engineer
+- 📍 Based in Karnataka, India
+
+## 🧰 Skills
+
+- **Programming Languages:** C, Python, Java (learning)
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Database:** SQLite
+
+## 🚀 Projects
+
+- **Smart Seed Selector** — A prototype that explores soil-based crop recommendations using sensors and Arduino.
+- **Panchayat Library Management System** — A web-based library project using Python Flask and SQLite.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaybanakara&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybanakara&layout=compact&theme=tokyonight)
+
+## 🤝 Connect With Me
+
+- GitHub: [@ajaybanakara](https://github.com/ajaybanakara)
+- LinkedIn: [Banakara Ajay](https://www.linkedin.com/in/banakara-ajay-bb842a383/)
+
+---
+
+⭐ *Always learning, always building, and always improving!*
